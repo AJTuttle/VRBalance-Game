@@ -13,6 +13,6 @@ Additionally, a second player can connect on an android phone and drop rocks fro
   
 # Research
 
-The novel cane-based interaction device was researched and VRBalance was chosen to represent it in a demo.
+While VRBalance was originally  just made as a project for a class on VR software development, it was chosen to represent the novel cane-based interaction device in a research demo.
 
 https://dl.acm.org/doi/abs/10.1145/3357251.3358756
